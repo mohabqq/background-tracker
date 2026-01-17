@@ -1,3 +1,7 @@
+## 0.1.2
+
+* Updated LICENSE file metadata for better detection on pub.dev.
+
 ## 0.1.1
 
 * Fixed incorrect repository and homepage URLs in pubspec.yaml.
