@@ -1,3 +1,7 @@
+## 0.1.1
+
+* Fixed incorrect repository and homepage URLs in pubspec.yaml.
+
 ## 0.1.0
 
 * Initial release of Background Tracker.

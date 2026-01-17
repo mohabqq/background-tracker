@@ -1,9 +1,9 @@
 name: flutter_background_tracker_pro
 description: A high-performance, battery-efficient background location tracking plugin with motion detection, geofencing, and offline sync.
-version: 0.1.0
-homepage: https://github.com/username/background_tracker
-repository: https://github.com/username/background_tracker
-issue_tracker: https://github.com/username/background_tracker/issues
+version: 0.1.1
+homepage: https://github.com/mohabqq/background-tracker
+repository: https://github.com/mohabqq/background-tracker
+issue_tracker: https://github.com/mohabqq/background-tracker/issues
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
